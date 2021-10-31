@@ -1,6 +1,6 @@
 <p align="center">
 <img src="images/logo_header.png"></br>
-<strong>Welcome to LuviKunG's Github</strong>
+<strong>Welcome to LuviKunG's <a href="https://github.com/LuviKunG">Github</a> and <a href="https://gist.github.com/LuviKunG">Gist</a></strong>
 </p>
 
 # Repositories
