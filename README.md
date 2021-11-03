@@ -32,6 +32,17 @@
 - Easier to check list of shader that will includes in build.
 - Contains feature of duplication checking and reordering shaders list.
 
+### [Animation Event Viewer](https://github.com/LuviKunG/AnimationEventViewer)
+
+- Easier to view all events that implemented in animation asset files.
+- Preview all AnimationEvent and types.
+
+### [LuviConsole](https://github.com/LuviKunG/LuviConsole)
+
+- A Console GUI that previews all logs, warnings and errors.
+- Able to custom your commands for calling your scripts that implemented in any instances or static classes.
+- Using legacy Unity UI.
+
 ## Build Pipeline for Unity Editor
 
 - All Build Pipline has feature to select export build location and will remember the last location you selected.
@@ -116,7 +127,7 @@ Studied in Game Design for mobile games for 8 years. directed the projects with 
 - 2nd Winner Prize competition from Good Game Developer Project 2013.
 - Teacher Assistance of Ministry of information and Communication Technology about Technology for Accessibility.
 
-## Work Experience
+## Working Experience
 
 ### Casasoft Studio Co,.Ltd. Feb 2020 - Present
 
@@ -249,6 +260,24 @@ Studied in Game Design for mobile games for 8 years. directed the projects with 
 - Won 2nd Prize of Popular Vote from Thai Game Jam 2013.
 - Using RPG Maker XP with Ruby Script.
 - Available download for free on [Global Game Jam Achieved Website (2013)](http://2013-server.globalgamejam.org/2013/color-my-heart)
+
+## Other works
+
+### Home Sweet Home EP.2
+
+**Thai Mythology horror game**
+
+- Started a prototype using Unreal Engine 4.22.
+- Exit the prototype team later, and start 'NUMBER 6' project.
+
+### NUMBER 6
+
+**Virtual-reality of First person action shooting using HTC Vive**
+
+- Developed using Unreal Engine 4.22 which internal customize engine called 'Thor' for VR Games.
+- Developed motion tracking system which able to grab stuff and throw, shoot the gun and using light saber to deflect an incoming bullets.
+- Designed and developed during development process.
+- This project isn't finish and canceled by Game Director.
 
 # Contacts
 
