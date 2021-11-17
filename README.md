@@ -66,6 +66,23 @@
 
 - Storing key and password for easier to rebuild everytime (but not recommended, just for quick build!).
 
+## Coming Soon!
+
+### Tad Kum Thai Library for Unity Editor
+
+![Tad Kum Thai](/images/sample_tadkumthai.gif)
+
+- Reposition Thai alphabet font in the correct position and using correct alphabet.
+- Coming with **dictionary block-chained** pattern of all Thai words that able to group phrase and divide word by word (or sentense).
+- Able to use custom font by using FontForge Python batch scripts, custom font will convert any Thai font into GPOS and GSUB support.
+- required [Unity3D.ThaiFontAdjuster](https://github.com/SaladLab/Unity3D.ThaiFontAdjuster) from [SaladLab](https://github.com/SaladLab), [FontForge](https://fontforge.org/en-US/) and [TextMeshPro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html) from Unity Engine Package.
+
+### Scenario Editor for Unity Editor
+
+- Graph Nodes style that help you to manage story and dialogue or some event such as camera repositioning or shaking, etc.
+- Based on Finite State Machine with Entry and Exit point.
+- Easy to integration. No need to create custom editor. Just create an inherit class and go.
+
 # Profile
 
 Full name: **Thanut Panichyotai**
