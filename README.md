@@ -39,9 +39,9 @@
 
 ### [LuviConsole](https://github.com/LuviKunG/LuviConsole)
 
-- A Console GUI that previews all logs, warnings and errors.
-- Able to custom your commands for calling your scripts that implemented in any instances or static classes.
-- Using legacy Unity UI.
+- A Console GUI that previews all logs, warnings and errors and able to custom your input commands for calling your scripts that implemented in any instances or static classes.
+- Using Unity IMGUI.
+- Latest update for using in Unity newer version.
 
 ## Build Pipeline for Unity Editor
 
@@ -70,14 +70,14 @@
 
 ### Tad Kum Thai Library for Unity Editor
 
-![Tad Kum Thai](/images/sample_tadkumthai.gif)
+![Tad Kum Thai](images/sample_tadkumthai.gif)
 
 - Reposition Thai alphabet font in the correct position and using correct alphabet.
 - Coming with **dictionary block-chained** pattern of all Thai words that able to group phrase and divide word by word (or sentense).
-- Able to use custom font by using FontForge Python batch scripts, custom font will convert any Thai font into GPOS and GSUB support.
+- Able to use custom font by using FontForge Python batch scripts, any font will converted for support GPOS and GSUB.
 - required [Unity3D.ThaiFontAdjuster](https://github.com/SaladLab/Unity3D.ThaiFontAdjuster) from [SaladLab](https://github.com/SaladLab), [FontForge](https://fontforge.org/en-US/) and [TextMeshPro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html) from Unity Engine Package.
 
-### Scenario Editor for Unity Editor
+### Scenario Engine (for Unity Editor)
 
 - Graph Nodes style that help you to manage story and dialogue or some event such as camera repositioning or shaking, etc.
 - Based on Finite State Machine with Entry and Exit point.
@@ -101,7 +101,6 @@ Studied in Game Design for mobile games for 8 years. directed the projects with 
 
 - The Art of Game Design: A Book of Lenses (2nd and 3rd Edition) with A Deck of Lenses
 - FREE-TO-PLAY: Making money from games you give away
-- Value Proposition Design
 - A Theory of Fun for Game Design
 
 ### Arts
@@ -114,10 +113,15 @@ Studied in Game Design for mobile games for 8 years. directed the projects with 
 - Blender (3D Models)
 - Autodesk Sketchbook (Whiteboxing drawing & prototype & many case!)
 
+### Product Management
+
+- MDA Framework
+- Value Proposition Design
+
 ### Development
 
-- Unity Engine 4, 5, 2017, 2018, 2019, 2020, 2021
-- Unreal Engine 4.27, 5.0A and newer
+- Unity Engine 4, 5, 2017, 2018, 2019, 2020, 2021 & 2022
+- Unreal Engine 4.27, 5.0 and newer
 - Construct 2 (2D Game Engine for WebGL or Browser game)
 - Defold
 - Pixi.js
@@ -136,6 +140,12 @@ Studied in Game Design for mobile games for 8 years. directed the projects with 
 - Node.js
 - WebSocket & Socket.IO
 - React.js
+- IMGUI
+
+### Other
+
+- Progressive Web App Design (Which include Web Design and App Design)
+- UX/UI Design & Color Theory
 
 ## Certifies
 
@@ -146,15 +156,23 @@ Studied in Game Design for mobile games for 8 years. directed the projects with 
 
 ## Working Experience
 
-### Casasoft Studio Co,.Ltd. Feb 2020 - Present
+### Miimo AI Feb 2022 - Present
 
 **Senior Game Developer**
 
-- Developing two prototypes of Soul-like action games using Unreal Engine 4 with C++ and Blueprint (but prefer C++).
+- Develop in-house editor for create and manage study content for student.
+- Improve app performance by refractor coding structure, doing memory mangement and control the flow of the data.
+- Mentor other developer about coding technique and programming tips for improve development performance.
+
+### Casasoft Studio Co,.Ltd. Feb 2021 - Feb 2022
+
+**Senior Game Developer**
+
+- Develop two prototypes of Soul-like action games using Unreal Engine 4 with C++ and Blueprint (but prefer C++).
 - Manage under Agile Project Management using Jira.
 - Mentor and train internship programmer & junior game developer for game development.
 
-### Vonder (Thailand) Co.,Ltd. Oct 2019 - Feb 2020
+### Vonder (Thailand) Co.,Ltd. Oct 2019 - Feb 2021
 
 **Senior Game Designer & Senior Game Developer**
 
