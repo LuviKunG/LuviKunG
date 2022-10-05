@@ -156,10 +156,11 @@ Studied in Game Design for mobile games for 8 years. directed the projects with 
 
 ## Working Experience
 
-### Miimo AI Feb 2022 - Present
+### [Miimo AI Co,.Ltd.](https://miimo.ai/) Feb 2022 - Present
 
-**Senior Game Developer**
+**Game Developer**
 
+- Develop a low code game in iOS (especially on iPad) for small childrens to learn the concept of programming since childhood.
 - Develop in-house editor for create and manage study content for student.
 - Improve app performance by refractor coding structure, doing memory mangement and control the flow of the data.
 - Mentor other developer about coding technique and programming tips for improve development performance.
