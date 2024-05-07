@@ -1,13 +1,22 @@
 <p align="center">
-<img src="images/logo_header.png"></br>
+<img src="images/logo_header.png" width="30%" />
+</br>
 <strong>Welcome to LuviKunG's <a href="https://github.com/LuviKunG">Github</a> and <a href="https://gist.github.com/LuviKunG">Gist</a></strong>
+</br>
+<a href="https://ko-fi.com/luvikung"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a></br>
 </p>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5G4J57)
 
 # Repositories
 
-## Tools for Unity Editor
+## Tools for Godot Engine
+
+### [LuviConsole for Godot](https://github.com/LuviKunG/GodotLuviConsole)
+
+- light-weighted console for Godot Engine.
+- Able to use in-game and editor.
+- Able to create custom commands and execute in-game.
+
+## Tools for Unity
 
 ### [LuviTools](https://github.com/LuviKunG/LuviTools)
 
@@ -45,7 +54,7 @@
 - Using Unity IMGUI.
 - Latest update for using in Unity newer version.
 
-## Build Pipeline for Unity Editor
+## Build Pipeline for Unity
 
 - All Build Pipline has feature to select export build location and will remember the last location you selected.
 - Able to change build location everytime.
@@ -85,6 +94,11 @@
 - Based on Finite State Machine with Entry and Exit point.
 - Easy to integration. No need to create custom editor. Just create an inherit class and go.
 
+### Scenario Engine (for Godot Engine)
+
+- Graph Nodes style that help you to manage story and dialogue or some event such as camera repositioning or shaking, etc.
+- Based on logic driven pattern.
+
 # Profile
 
 Full name: **Thanut Panichyotai**
@@ -95,32 +109,37 @@ Location: **Bangkok, Thailand.**
 
 ## Summary
 
-Studied in Game Design for mobile games for 8 years. directed the projects with game development team. Able to writing Game design document, game scope document, pitch agenda, marketing plan. Able to prototyping the game mechanics by myself include online multiplayer games. Able to manage the project using both of OKR management system and Agile project management with Scrum. Analyze game using tools. Able to writing Game Journals. Include interactive media design and games design such as AR, VR and XR (Mixed Reality). Skillful in Game Design: A Deck of lenses. Advanced on game development for 6 years programming experience using various game engine. Quickly understand codes and prototype by yourself. Can adapt codes and projects easier to use. Likely to create new tools that helpful and fast to design and develop. Reliable and friendly professional able to work with little oversight and collaborate in team environments. Adviced the supervisor about development process, cost and quality.
+Passionate game designer with 9 years of experience across mobile, AAA, and XR. Led game development teams to successful launches, leveraging Agile and OKR methodologies. Strong programming skills in Unity (C#) and Unreal Engine (C++). Adept at crafting compelling pitches, design documents, and prototypes. Analyze games with cutting-edge tools and generate insightful reports. Experienced author of gaming journals. Collaborative and resourceful, known for innovative solutions and exceeding expectations.
 
-## Skills
+## Skill Sets
+
+### Game Development
+
+- Able to create games using a variety of game engines. Expertise on coding in game development, utilizing C#, C++, Javascript, and Typescript.
+- Experience using Firebase to integrate online projects that sync with real-time databases, cloud firestores, cloud functions, and firebase messaging.
+- Knowledge of utilizing sockets to construct online multiplayer games.
+- Knowledge in creating VR projects in Unreal Engine 4 and Unreal Engine 5 with a customized engine capable of developing games in a VR environment.
+- Experience in creating PC games (Steam) and mobile games.
+- Strong knowledge of Object-Oriented programming, SOLID programming and game development structure.
+- Understanding of game optimization from coding, structuring and using game engine tools such as occlusion culling, static mesh baking, shaders improvements, light probes, reflect probes, etc.
+- Able to oversee game development, manage the product roadmap and development pipeline with teams, and implement in-house tools to facilitate work more quickly.
 
 ### Game Design
 
-- The Art of Game Design: A Book of Lenses (2nd and 3rd Edition) with A Deck of Lenses
-- FREE-TO-PLAY: Making money from games you give away
-- A Theory of Fun for Game Design
+- Knowledge of documenting a full game design document which includes all the possible information for game development.
+- Able to construct the game prototype by myself for testing core game loops or game feels.
+- Experience of using ‘A Deck of Lenses’ from ‘The Art of Game Design: A Book of Lenses’ that is efficient for designing a game.
+- Strong knowledge of using cell documents with functions such as Microsoft Excel or Google Spreadsheet to calculate or program the formula.
 
-### Arts
+### Game Arts & Performances
 
-- Spine (2D Animation)
-- Paint Tool SAI (2D Arts)
-- Adobe Photoshop (2D & 3D Texture painting)
-- Adobe After Effects (Created a promo-video)
-- Adobe InDesign (Document & Promotion)
-- Blender (3D Models)
-- Autodesk Sketchbook (Whiteboxing drawing & prototype & many case!)
+- Experience in creating concept arts, key visuals, vertical slices of the game.
+- Understanding of the design UX/UI element of the game.
+- Experience in modeling and model optimization that leads to game optimization such as meshes baking,
+- Understanding of cinematic scenery in the game and how to improve performances includes lighting, baking light maps, using light probes, reflect probes, fake light or rim light and normals for 2D rim lights.
+- Understanding of colors theory, 12 principles of animations, curves and easing.
 
-### Product Management
-
-- MDA Framework
-- Value Proposition Design
-
-### Development
+### Programming Capabilities
 
 - Unity Engine 4, 5, 2017, 2018, 2019, 2020, 2021 & 2022
 - Unreal Engine 4.27, 5.0 and newer
@@ -158,80 +177,65 @@ Studied in Game Design for mobile games for 8 years. directed the projects with 
 
 ## Working Experience
 
-### [Miimo AI Co,.Ltd.](https://miimo.ai/) Feb 2022 - Present
+### Nomadic Games Co,.Ltd. Aug 2023 - Present
+
+**Lead Game Programmer**
+
+Led AAA action martial arts game design, crafting diverse combat systems with unique moves and skills. Managed development of a Chinese martial arts game using Unreal Engine 5 and C++. Drove project lifecycle from prototype to production phase
+
+### NANUQ Co,.Ltd. Mar 2023 - Sep 2023
+
+**Lead and Senior Game Developer**
+
+Created cinematic scenes for advertising using Unreal Engine 5. Oversaw two online mobile game projects, offering key insights to the product owner on project development costs and quality.
+
+### Miimo AI Co,.Ltd. Feb 2022 - Feb 2023
 
 **Game Developer**
 
-- Develop a low code game in iOS (especially on iPad) for small childrens to learn the concept of programming since childhood.
-- Develop in-house editor for create and manage study content for student.
-- Improve app performance by refractor coding structure, doing memory mangement and control the flow of the data.
-- Mentor other developer about coding technique and programming tips for improve development performance.
+Developed iOS low-code educational game for children. Designed Unity editors/tools, including stages and instructional sequence nodes. Led iOS to Android migration with optimizations and native button support
 
 ### Casasoft Studio Co,.Ltd. Feb 2021 - Feb 2022
 
 **Senior Game Developer**
 
-- Develop two prototypes of Soul-like action games using Unreal Engine 4 with C++ and Blueprint (but prefer C++).
-- Manage under Agile Project Management using Jira.
-- Mentor and train internship programmer & junior game developer for game development.
+Developed two soul-like action game prototypes in Unreal Engine 4, using C++ and Blueprint. Employed Scrum-based Agile Project Management for effective oversight. Mentored and trained intern programmer and junior developer in game development.
 
 ### Vonder (Thailand) Co.,Ltd. Oct 2019 - Feb 2021
 
 **Senior Game Designer & Senior Game Developer**
 
-- Design and develop 3 games with own team using Unity WebGL.
-- Public relation management for all games and interactive in company.
-- Mentor and train internship programmer on game develop processes.
-- Advised the CEO, CCO & product owner regarding cost and quality.
+Designed and developed three Unity WebGL games. Managed public relations for company projects. Mentored junior developers. Provided strategic counsel on project cost and quality to leadership.
 
 ### Zai Studio June 2019 - Oct 2019
 
 **Senior Game Developer**
 
-- Design and develop a multiplayer mini game project.
-- Public relation management for all games and interactive in company.
-- Mentor and train internship programmer on game develop processes.
-- Advised the CEO, CCO & product owner regarding cost and quality.
-- Manage under Agile Project Management with Scrum.
-- This is my sister's game studio. I worked for 5 months to help her, to improve working environments and teaching Junior Developer to improve skills and able to develop a project.
+Designed and developed a multiplayer mini-game project. Managed public relations for interactive projects.
 
 ### ZERO-bit Co.,Ltd. May 2018 - February 2019
 
 **Game Director, Game Designer, Senior Game Developer & Marketing Coordinator**
 
-- Directed and design 7 of mobile game with development process.
-- Managed under Objective and Key Result management system.
-- Public relation management for all games and interactive in company.
-- Mentor and train internship programmer on game develop processes.
-- Advised the CEO, CCO & product owner regarding cost and quality.
+Directed and designed seven mobile games, overseeing the full development process. Managed projects using Objective and Key Result Management System for organizational alignment.
 
 ### YGGDrazil Group Co., Ltd. June 2016 - May 2018
 
 **Game Designer & AI Game Developer, with a liitle bit of Project Management**
 
-- Designed and developed a Virtual Reality game for HTC Vive and KAT VR called NUMBER 6 with support for KAT VR.
-- Developed a Virtual Reality game for mobile called NUMBER 5 with support for Android, iOS and Oculus.
-- Developed a game for PC called Home Sweet Home as AI Game Developer.
-- Public relation management for all games and interactive in company.
-- Mentor and train internship programmer on game develop processes.
-- Advised the product owner regarding cost and quality.
+Designed and developed VR game "NUMBER 6" for HTC Vive and KAT VR. Created mobile VR game "NUMBER 5" for Android, iOS, and Oculus. Contributed as AI Game Developer for PC game "Home Sweet Home: EP.1"
 
 ### arkavis siam Co., Ltd. May 2014 - January 2016
 
 **Game Developer**
 
-- Developed frontend and backend for 3 games. RETRO WINGS, RAMA RUN and ZOMBIE RUSH.
-- Worked under Agile process management.
-- Mentor and train internship programmer on game develop processes.
-- Advised the product owner regarding cost and quality.
-- Write weekly reports logging project progress for Agile process management
+Developed frontend and backend for 3 games. RETRO WINGS, RAMA RUN and ZOMBIE RUSH.
 
 ### Kasetsart University 2011
 
 **Web Programmer**
 
-- Developed a website of Kasetsart University, Faculty of Agriculture for Master degree online registration using PHP
- to create printable document as PDF file.
+Developed a website of Kasetsart University, Faculty of Agriculture for Master degree online registration using PHP to create printable document as PDF file.
 
 ## Activities
 
