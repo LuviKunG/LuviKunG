@@ -2,8 +2,6 @@
 <img src="images/logo_header.png" width="30%" />
 </br>
 <strong>Welcome to LuviKunG's <a href="https://github.com/LuviKunG">Github</a> and <a href="https://gist.github.com/LuviKunG">Gist</a></strong>
-</br>
-<a href="https://ko-fi.com/luvikung"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a></br>
 </p>
 
 # Repositories
@@ -177,7 +175,13 @@ Passionate game designer with 9 years of experience across mobile, AAA, and XR. 
 
 ## Working Experience
 
-### Nomadic Games Co,.Ltd. Aug 2023 - Present
+### Translucia LLC Sep 2024 - Present
+
+**Senior Game Engineer - Unreal Engine**
+
+Develop an immersive experience using Unreal Engine 5. Create a tech spike to explore new technologies and innovations for the company. Collaborate on product design throughout the development process.
+
+### Nomadic Games Co,.Ltd. Aug 2023 - Aug 2024
 
 **Lead Game Programmer**
 
