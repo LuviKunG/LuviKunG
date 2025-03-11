@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/logo_header.png" width="30%" />
+<img src="images/logo_header.png" width="50%" />
 </br>
 <strong>Welcome to LuviKunG's <a href="https://github.com/LuviKunG">Github</a> and <a href="https://gist.github.com/LuviKunG">Gist</a></strong>
 </p>
@@ -154,11 +154,14 @@ Passionate game designer with 9 years of experience across mobile, AAA, and XR. 
 - PHP
 - SQL (Query)
 - MongoDB
+- Socket (TCP)
 - 3rd Party Server Provider (Parse (Legacy), GameSparks, PlayFab)
 - Multiplayer & Back-end Provider(GameSparks, Playfab, Photon)
+- Unreal Multiplayer Replication System
 - Node.js
 - WebSocket & Socket.IO
 - React.js
+- Next.js
 - IMGUI
 
 ### Other
