@@ -1,20 +1,30 @@
 <p align="center">
 <img src="images/logo_header.png" width="50%" />
-</br>
-<strong>Welcome to LuviKunG's <a href="https://github.com/LuviKunG">GitHub</a> and <a href="https://gist.github.com/LuviKunG">Gist</a></strong>
+<br />
+<strong>Welcome to LuviKunG's <a href="https://github.com/LuviKunG">GitHub</a></strong>
+<br />
+<a href="https://luvikung.github.io">Website</a> | <a href="https://gist.github.com/LuviKunG">Gist</a>
 </p>
 
 # Repositories
 
+## General Tools
+
+### [Texture Manipulator](https://github.com/LuviKunG/texture-manipulator)
+
+- A simple web app that allows you to manipulate image channels such as separating RGBA channels, combining channels into one image, resizing images, and converting image formats.
+- Comes with installation files for Windows.
+- Open source for building your own version with different platform support.
+
 ## Tools for Godot Engine
 
-### [LuviConsole for Godot](https://github.com/LuviKunG/GodotLuviConsole)
+### [LuviConsole for Godot (Beta)](https://github.com/LuviKunG/GodotLuviConsole)
 
 - Lightweight console for Godot Engine.
 - Usable in-game and in the editor.
 - Allows you to create custom commands and execute them in-game.
 
-## Tools for Unity
+## Tools for Unity (Out of Support)
 
 ### [LuviTools](https://github.com/LuviKunG/LuviTools)
 
@@ -52,7 +62,7 @@
 - Uses Unity IMGUI.
 - Updated for use in newer versions of Unity.
 
-## Build Pipeline for Unity
+## Build Pipeline for Unity (Out of Support)
 
 - All build pipelines feature the ability to select an export build location, and they will remember the last location you selected.
 - Allows you to change the build location every time.
@@ -75,16 +85,7 @@
 
 - Stores keys and passwords for quicker rebuilds (not recommended for production, just for quick builds).
 
-## Coming Soon!
-
-### Tad Kum Thai Library for Unity Editor
-
-![Tad Kum Thai](images/sample_tadkumthai.gif)
-
-- Repositions Thai alphabet fonts to the correct positions using the proper characters.
-- Includes a **dictionary block-chained** pattern of all Thai words, allowing for grouping phrases and dividing text word by word (or sentence by sentence).
-- Allows the use of custom fonts with FontForge Python batch scripts; any font will be converted to support GPOS and GSUB.
-- Requires [Unity3D.ThaiFontAdjuster](https://github.com/SaladLab/Unity3D.ThaiFontAdjuster) from [SaladLab](https://github.com/SaladLab), [FontForge](https://fontforge.org/en-US/), and [TextMeshPro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html) from the Unity Engine Package.
+## Upcoming Tools
 
 ### Scenario Engine (for Unity Editor)
 
@@ -178,7 +179,13 @@ Passionate game designer with 9 years of experience across mobile, AAA, and XR. 
 
 ## Working Experience
 
-### Translucia LLC (Sep 2024 - Present)
+### Idyllias LLC (Nov 2025 - Present)
+
+**Senior Game Engineer - Unreal Engine**
+
+Develop games using Unreal Engine 5 and C++. Lead and mentor team members in best practices and efficient coding techniques. Collaborate with the design team to implement game features and mechanics. Optimize game performance and ensure a smooth player experience.
+
+### Translucia LLC (Sep 2024 - Oct 2025)
 
 **Senior Game Engineer - Unreal Engine**
 
