@@ -24,9 +24,14 @@
 - Usable in-game and in the editor.
 - Allows you to create custom commands and execute them in-game.
 
-## Tools for Unity (Out of Support)
+## Tools for Unity
 
-### [LuviTools](https://github.com/LuviKunG/LuviTools)
+### [LuviInspector](https://github.com/LuviKunG/LuviInspector)
+
+- An alternative inspector for Unity 6+, inspired by Unreal Engine's UPROPERTY macro.
+- Apply a single attribute to a class and use a small set of attributes to group fields into collapsible categories, override labels, add editor buttons, conditionally show or hide fields, and annotate them with help notes.
+
+### [LuviTools](https://github.com/LuviKunG/LuviTools) (Out of Support)
 
 - Various C# scripts for Unity Engine that help you develop games more easily.
 - Some scripts may be obsolete or deprecated.
@@ -46,12 +51,12 @@
 - Allows you to add, remove, and reorder SDS syntax.
 - Deprecated for Unity 2021 or newer because Unity already includes this feature in the Player Preferences editor.
 
-### [Graphic Shader Window](https://github.com/LuviKunG/GraphicShaders)
+### [Graphic Shader Window](https://github.com/LuviKunG/GraphicShaders) (Out of Support)
 
 - Makes it easier to check the list of shaders that will be included in the build.
 - Includes features such as duplicate checking and reordering of the shader list.
 
-### [Animation Event Viewer](https://github.com/LuviKunG/AnimationEventViewer)
+### [Animation Event Viewer](https://github.com/LuviKunG/AnimationEventViewer) (Out of Support)
 
 - Makes it easier to view all events implemented in animation asset files.
 - Previews all AnimationEvents and their types.
@@ -69,7 +74,7 @@
 - Allows you to set the build format name.
 - With one click, the build pipeline takes over so you can take a break, grab some coffee, and let it handle the build process.
 
-### [Build Pipeline for WebGL](https://github.com/LuviKunG/BuildPipelineWebGL)
+### [Build Pipeline for WebGL](https://github.com/LuviKunG/BuildPipelineWebGL) (Out of Support)
 
 - Strips mobile warnings for WebGL usage on mobile platforms.
 - Adjusts memory size for WebAssembly.
@@ -77,11 +82,11 @@
 - Adjusts compression.
 - Adjusts WASM streaming.
 
-### [Build Pipeline for iOS](https://github.com/LuviKunG/BuildPipelineIOS)
+### [Build Pipeline for iOS](https://github.com/LuviKunG/BuildPipelineIOS) (Out of Support)
 
 - Adjusts the info.plist file, including permissions.
 
-### [Build Pipeline for Android](https://github.com/LuviKunG/BuildPipelineAndroid)
+### [Build Pipeline for Android](https://github.com/LuviKunG/BuildPipelineAndroid) (Out of Support)
 
 - Stores keys and passwords for quicker rebuilds (not recommended for production, just for quick builds).
 
@@ -108,7 +113,7 @@ Location: **Bangkok, Thailand**
 
 ## Summary
 
-Passionate game designer with 9 years of experience across mobile, AAA, and XR. Led game development teams to successful launches by leveraging Agile and OKR methodologies. Possesses strong programming skills in Unity (C#) and Unreal Engine (C++). Adept at crafting compelling pitches, design documents, and prototypes. Skilled in analyzing games with cutting-edge tools and generating insightful reports. An experienced author of gaming journals, collaborative and resourceful—known for innovative solutions and exceeding expectations.
+Passionate game designer with 13 years of experience across mobile, AAA, and XR. Led game development teams to successful launches by leveraging Agile and OKR methodologies. Possesses strong programming skills in Unity (C#) and Unreal Engine (C++). Adept at crafting compelling pitches, design documents, and prototypes. Skilled in analyzing games with cutting-edge tools and generating insightful reports. An experienced author of gaming journals, collaborative and resourceful—known for innovative solutions and exceeding expectations.
 
 ## Skill Sets
 
@@ -127,7 +132,7 @@ Passionate game designer with 9 years of experience across mobile, AAA, and XR. 
 
 - Experienced in creating comprehensive game design documents that include all necessary information for development.
 - Capable of constructing game prototypes independently for testing core game loops and feel.
-- Experience using *A Deck of Lenses* from *The Art of Game Design: A Book of Lenses* to design games effectively.
+- Experience using _A Deck of Lenses_ from _The Art of Game Design: A Book of Lenses_ to design games effectively.
 - Proficient in using spreadsheet tools such as Microsoft Excel or Google Sheets to calculate formulas or program logic.
 
 ### Game Arts & Performances
