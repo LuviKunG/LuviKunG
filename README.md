@@ -12,7 +12,7 @@
 
 ## General Tools
 
-### [Texture Manipulator](https://github.com/LuviKunG/texture-manipulator)
+### **\*NEW\*** [Texture Manipulator](https://github.com/LuviKunG/texture-manipulator)
 
 - A simple web app that allows you to manipulate image channels such as separating RGBA channels, combining channels into one image, resizing images, and converting image formats.
 - Comes with installation files for Windows.
@@ -28,9 +28,9 @@
 
 ## Tools for Unity
 
-### [LuviInspector](https://github.com/LuviKunG/LuviInspector)
+### **\*NEW\*** [LuviInspector](https://github.com/LuviKunG/LuviInspector)
 
-- An alternative inspector for Unity 6+, inspired by Unreal Engine's UPROPERTY macro.
+- An alternative inspector for Unity 6+, inspired by Unreal Engine's `UPROPERTY` macro.
 - Apply a single attribute to a class and use a small set of attributes to group fields into collapsible categories, override labels, add editor buttons, conditionally show or hide fields, and annotate them with help notes.
 
 ### [LuviTools](https://github.com/LuviKunG/LuviTools) (Out of Support)
