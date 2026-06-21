@@ -28,6 +28,10 @@
 
 ## Tools for Unity
 
+### **\*NEW\*** [LuviAttributes](https://github.com/LuviKunG/LuviAttributes)
+
+- A collection of custom Unity inspector attributes for enforcing field validation and display rules directly in code.
+
 ### **\*NEW\*** [LuviInspector](https://github.com/LuviKunG/LuviInspector)
 
 - An alternative inspector for Unity 6+, inspired by Unreal Engine's `UPROPERTY` macro.
