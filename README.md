@@ -20,7 +20,7 @@
 - You only need to implement your Three.js scene and camera, and the wrapper will handle the rest.
 - Available as an npm package for easy installation and integration into your React/Next.js projects.
 
-See the demo here: [https://luvikung.github.io](https://luvikung.github.io)
+See the demo here: [https://luvikung.github.io/three-next](https://luvikung.github.io/three-next)
 
 ### [Texture Manipulator](https://github.com/LuviKunG/texture-manipulator)
 
