@@ -12,19 +12,23 @@
 
 ## General Tools
 
-### **\*NEW\*** [Texture Manipulator](https://github.com/LuviKunG/texture-manipulator)
+### **\*NEW\*** [three-next](https://github.com/LuviKunG/three-next)
+
+- A lightweight React/Next.js integration layer for Three.js.
+- No React components and state management, just a simple wrapper for Three.js.
+- Manages the WebGL renderer lifecycle, rendering loop, resize handling, WebGL context loss/restoration, and error boundaries.
+- You only need to implement your Three.js scene and camera, and the wrapper will handle the rest.
+- Available as an npm package for easy installation and integration into your React/Next.js projects.
+
+See the demo here: [https://luvikung.github.io](https://luvikung.github.io)
+
+### [Texture Manipulator](https://github.com/LuviKunG/texture-manipulator)
 
 - A simple web app that allows you to manipulate image channels such as separating RGBA channels, combining channels into one image, resizing images, and converting image formats.
 - Comes with installation files for Windows.
 - Open source for building your own version with different platform support.
 
-## Tools for Godot Engine
-
-### [LuviConsole for Godot (Beta)](https://github.com/LuviKunG/GodotLuviConsole)
-
-- Lightweight console for Godot Engine.
-- Usable in-game and in the editor.
-- Allows you to create custom commands and execute them in-game.
+Try it out here: [https://luvikung.github.io/texturemanipulator](https://luvikung.github.io/texturemanipulator)
 
 ## Tools for Unity
 
@@ -72,6 +76,14 @@
 - A console GUI that previews all logs, warnings, and errors, and allows you to customize input commands to call scripts implemented in any instances or static classes.
 - Uses Unity IMGUI.
 - Updated for use in newer versions of Unity.
+
+## Tools for Godot Engine
+
+### [LuviConsole for Godot (Beta)](https://github.com/LuviKunG/GodotLuviConsole)
+
+- Lightweight console for Godot Engine.
+- Usable in-game and in the editor.
+- Allows you to create custom commands and execute them in-game.
 
 ## Build Pipeline for Unity (Out of Support)
 
